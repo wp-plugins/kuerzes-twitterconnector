@@ -14,6 +14,8 @@ This plugin works as an configurable url shortener and twitter connector. Your p
 will get posted to twitter with a custom prefix and custom suffix. The URLs used in the 
 tweets are shortened through http://kuerz.es/ URL shortener.
 
+Attention: The plugin require PHP 5.2 or higher and PHP-Curl installed to work!
+
 == Installation ==
 
 1. Upload `WP-TopScoredCommentAuthors.php` to the `/wp-content/plugins/` directory
