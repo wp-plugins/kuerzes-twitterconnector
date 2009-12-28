@@ -18,7 +18,7 @@ Attention: The plugin require PHP 5.2 or higher and PHP-Curl installed to work!
 
 == Installation ==
 
-1. Upload `WP-TopScoredCommentAuthors.php` to the `/wp-content/plugins/` directory
+1. Upload the plugin folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Configure the widgets using the settings-page to be found in the settings menu
 1. Publish some posts and watch your twitter stream
